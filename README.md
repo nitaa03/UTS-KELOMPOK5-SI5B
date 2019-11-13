@@ -10,4 +10,4 @@ NITA ROSITA
 -
 ONLY AZASI
 -
-![image](assets/img/capture5.png)
+![image](assets/img/Capture5.PNG)
